@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Benefits",
+    "children": [
+      {
+        "title": "Health Insurance and Medicaid",
+        "children": [
+          {
+            "title": "Medicaid: Know Your Rights",
+            "children": [
+              {
+                "title": "https://ncgov.servicenowservices.com/sp_beneficiary?id=bnf_know_your_rights"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Disability (SSI/SSDI)",
+        "children": [
+          {
+            "title": "Law Help NC: Tips for Applying for SSI/SSDI",
+            "children": [
+              {
+                "title": "https://www.lawhelpnc.org/resource/tips-to-remember-when-applying-for-ssa-benefi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Food Insecurity",
+        "children": [
+          {
+            "title": "WIC Program Information",
+            "children": [
+              { "title": "https://www.nutritionnc.com/wic/index.htm" }
+            ]
+          },
+          {
+            "title": "LANC FNS Benefit Calculator",
+            "children": [{ "title": "https://lancmlp.github.io/FNScalc/" }]
+          }
+        ]
+      },
+      {
+        "title": "WorkFirst",
+        "children": [
+          {
+            "title": "WorkFirst Info from NCDHHS",
+            "children": [
+              {
+                "title": "https://www.ncdhhs.gov/divisions/social-services/work-first-family-assistance"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Housing",
+    "children": [
+      {
+        "title": "Eviction",
+        "children": [
+          {
+            "title": "LANC Eviction Guide",
+            "children": [
+              {
+                "title": "https://legalaidnc.org/get-help/self-help-library/housing/eviction-guide"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Conditions",
+        "children": [
+          {
+            "title": "LANC Self-Help Video on Conditions",
+            "children": [
+              {
+                "title": "https://www.youtube.com/watch?v=oIEZVsa_iyk&feature=youtu.be&ab_channel=LegalAidofNorthCarolina"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Loss of Housing Subsidy or Voucher",
+        "children": [
+          {
+            "title": "Rent and Utility Assistance Programs in NC",
+            "children": [
+              {
+                "title": "https://legalaidnc.org/get-help/self-help-library/housing/rent-and-utility-assistance"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Other Housing Issue",
+        "children": [
+          {
+            "title": "NC Homeless Youth Handbook",
+            "children": [
+              { "title": "https://www.homelessyouth.org/en/us/north-carolina" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Consumer",
+    "children": [
+      {
+        "title": "Debt Collection",
+        "children": [
+          {
+            "title": "Law Help NC: How to Deal with Debt Collectors",
+            "children": [
+              {
+                "title": "https://www.lawhelpnc.org/resource/how-to-deal-with-debt-collectors?ref=Q04rD"
+              }
+            ]
+          },
+          {
+            "title": "Law Help NC: Bankruptcy Explainer",
+            "children": [
+              {
+                "title": "https://www.lawhelpnc.org/resource/what-is-bankruptcy?ref=SVW2a"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Individual Rights",
+    "children": [
+      {
+        "title": "Immigration",
+        "children": [{ "title": "TBD", "children": [{ "title": "TBD" }] }]
+      },
+      {
+        "title": "Expunction",
+        "children": [
+          {
+            "title": "LANC Information on Expunction",
+            "children": [
+              {
+                "title": "https://legalaidnc.org/get-help/self-help-library/criminal-record-expunction"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Driver's License Restoration",
+        "children": [{ "title": "TBD", "children": [{ "title": "TBD" }] }]
+      },
+      {
+        "title": "Wills & Powers of Attorney",
+        "children": [{ "title": "TBD", "children": [{ "title": "TBD" }] }]
+      }
+    ]
+  },
+  {
+    "title": "Family",
+    "children": [
+      {
+        "title": "Custody",
+        "children": [
+          {
+            "title": "LANC Custody Packet",
+            "children": [
+              {
+                "title": "https://legalaidnc.org/sites/default/files/2020-09/child-custody-packet-parent.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Child Support",
+        "children": [{ "title": "TBD", "children": [{ "title": "TBD" }] }]
+      },
+      {
+        "title": "Interpersonal Violence",
+        "children": [
+          {
+            "title": "LANC Video: Basics of a DV Hearing",
+            "children": [
+              {
+                "title": "https://www.youtube.com/watch?v=ALGBABcaO4o&feature=youtu.be&ab_channel=LegalAidofNorthCarolina"
+              }
+            ]
+          },
+          {
+            "title": "Find an NC Domestic Violence Agency",
+            "children": [{ "title": "https://nccadv.org/get-help" }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Education",
+    "children": [
+      {
+        "title": "Access to Special Education Services",
+        "children": [
+          {
+            "title": "LANC Education Advocacy Toolkit for Parents",
+            "children": [
+              {
+                "title": "https://legalaidnc.org/sites/default/files/2020-01/acs-advocacy-toolkit-general-tips-and-tools.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Suspension/Expulsion",
+        "children": [
+          {
+            "title": "LANC Education Advocacy Toolkit for Parents",
+            "children": [
+              {
+                "title": "https://legalaidnc.org/sites/default/files/2020-01/acs-advocacy-toolkit-general-tips-and-tools.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bullying/Harassment",
+        "children": [
+          {
+            "title": "LANC Education Advocacy Toolkit for Parents",
+            "children": [
+              {
+                "title": "https://legalaidnc.org/sites/default/files/2020-01/acs-advocacy-toolkit-general-tips-and-tools.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Employment",
+    "children": [
+      {
+        "title": "Unemployment Insurance",
+        "children": [
+          {
+            "title": "NC Dept. of Commerce - Info on Unemployment Benefits",
+            "children": [{ "title": "https://des.nc.gov/apply-unemployment" }]
+          }
+        ]
+      },
+      {
+        "title": "Worker's Compensation",
+        "children": [
+          {
+            "title": "LANC Video: Employee Rights in NC",
+            "children": [
+              {
+                "title": "https://legalaidnc.org/sites/default/files/2020-09/child-custody-packet-parent.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
