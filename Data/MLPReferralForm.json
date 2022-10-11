@@ -141,7 +141,7 @@
   ],
   "settings": {
     "email": false,
-    "address": ["AnthonyA@legalaidnc.org"],
+    "address": ["AnthonyA@legalaidnc.org", "test@legalaidnc.org"],
     "api": false,
     "apiInfo": []
   },
